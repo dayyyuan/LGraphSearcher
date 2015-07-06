@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 8 [1.8.0_05]"/>
+	<classpathentry kind="lib" path="/Users/dayuyuan/Documents/workspace/LGraphSearcher/lib/junit-4.11-SNAPSHOT-20120805-1225.jar"/>
+	<classpathentry kind="lib" path="/Users/dayuyuan/Documents/workspace/LGraphSearcher/lib/extendedset_2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/dayuyuan/Documents/workspace/LGraphSearcher/lib/JavaEWAH-0.3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/dayuyuan/Documents/workspace/LGraphSearcher/lib/lucene-core-3.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/dayuyuan/Documents/workspace/LGraphSearcher/lib/gxl.jar"/>
+	<classpathentry kind="lib" path="/Users/dayuyuan/Documents/workspace/LGraphSearcher/lib/commons-math-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/dayuyuan/Documents/workspace/LGraphSearcher/lib/commons-io-1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/dayuyuan/Documents/workspace/LGraphSearcher/lib/commons-io-1.4-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/dayuyuan/Documents/workspace/LGraphSearcher/lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/dayuyuan/Documents/workspace/LGraphSearcher/lib/ParMol_1346_2006-08-01.jar"/>
+	<classpathentry kind="lib" path="/Users/dayuyuan/Documents/workspace/LGraphSearcher/lib/moa-release-2012.08.31/moa.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
